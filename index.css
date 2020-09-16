@@ -1,0 +1,10 @@
+body {
+    font-size: 26px;
+    background: red;
+}
+
+.pic {
+    width: 200px;
+    height: 200px;
+    column-count: 3;
+}
